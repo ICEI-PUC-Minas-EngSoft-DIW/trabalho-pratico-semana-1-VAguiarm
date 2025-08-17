@@ -2,16 +2,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Vinicius
+Matricula: 900445
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img width="553" height="173" alt="inspeção redes" src="https://github.com/user-attachments/assets/84e3eabb-2bb6-4222-8bb4-00369504e79a" />
+
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+<img width="447" height="332" alt="hw3" src="https://github.com/user-attachments/assets/f926c88c-cbb1-4d7d-865e-16a4614a65da" />
+
 
 
 ## Orientações sobre Linguagem MarkDown
